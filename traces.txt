@@ -1,0 +1,67 @@
+############################################################################################################################################
+# This is a comment
+# File must start with description string
+# Arguments separate by '/'
+# X-Axis Name / Y-Axis name at top plot / Y-Axis name at bottom plot / First trace name / Second trace name / legend position / legend size
+# top plot - two traces given in file
+# bottom plot (first trace - second trace)
+# legend possition posible value
+#       best, upper right, upper left, lower left, lower right,  right,  center left,  center right,  lower center,  upper center,  center
+# legend size possible value 
+#       xx-small, x-small, small, medium, large, x-large, xx-large, larger, smaller, None
+############################################################################################################################################
+Frequency(GHz) / Insertion losses(dB) / Difference(dB) / Simulated / Measured / best / x-large
+11.2	-68.3	-52.8
+11.3	-62.4	-52
+11.4	-56.03	-45.8
+11.5	-49.05	-36
+11.6	-41.3	-30.2
+11.7	-32.5	-19.5
+11.8	-22.16	-6.8
+11.9	-9.29	-2.1
+12.0	-0.24	-1.24
+12.1	-0.15	-1.01
+12.2	-0.07	-0.86
+12.3	-0.07	-0.86
+12.4	-0.05	-0.7
+12.5	-0.06	-0.97
+12.6	-0.06	-0.86
+12.7	-0.05	0
+12.8	-0.08	0
+12.9	-0.15	0
+13.0	-0.2	0
+13.1	-0.2	0
+13.2	-0.11	0
+13.3	-0.07	0
+13.4	-0.05	-0.18
+13.5	-0.04	0
+13.6	-0.04	0
+13.7	-0.05	-0.48
+13.8	-0.08	-0.61
+13.9	-0.1	-0.28
+14.0	-0.12	-0.54
+14.1	-0.12	-0.76
+14.2	-0.1	-0.4
+14.3	-0.1	-0.3
+14.4	-0.06	-0.37
+14.5	-0.05	0
+14.6	-0.04	0
+14.7	-0.04	0
+14.8	-0.03	0
+14.9	-0.03	0
+15.0	-0.1	-0.79
+15.1	-0.6	-1.9
+15.2	-2.08	-2.53
+15.3	-4.7	-6
+15.4	-7.9	-8.44
+15.5	-11.03	-8.3
+15.6	-14.0	-12.09
+15.7	-16.6	-15.57
+15.8	-18.8	-17.86
+15.9	-20.9	-21.3
+16.0	-22.63	-23.14
+16.1	-24.16	-27.25
+16.2	-25.47	-29.2
+16.3	-26.6	-30
+16.4	-27.5	-30.49
+16.5	-28.28	-30
